@@ -1,0 +1,10 @@
+conda create --name ml_shap pandas scikit-learn scipy matplotlib seaborn jupyter
+
+source activate ml_shap
+
+conda install -c conda-forge jupytext
+conda install -c conda-forge plotnine
+conda install -c conda-forge shap
+conda install -c conda-forge xgboost
+
+conda env export > environment.yml
