@@ -1,0 +1,5 @@
+{
+    "python.dataScience.enableCellCodeLens": false,
+    "python.dataScience.enabled": false,
+    "python.pythonPath": "/home/zh/anaconda3/envs/ml_shap/bin/python"
+}
