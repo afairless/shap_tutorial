@@ -49,6 +49,7 @@ Christoph Molnar's book and Tim Miller's paper can provide further insight into 
 
 For my own blog post describing how machine learning interpretability can be used in healthcare, please see:
     
-- [Interpretability and the promise of healthcare AI](https://www.geneia.com/blog/2020/january/interpretability-and-the-promise-of-healthcare-ai)
+- ORIGINAL LINK BROKEN:  <s>[Interpretability and the promise of healthcare AI](https://www.geneia.com/blog/2020/january/interpretability-and-the-promise-of-healthcare-ai)</s>
+- UPDATED LINK: [Interpretability and the promise of healthcare AI](https://web.archive.org/web/20210418122745/https://www.geneia.com/blog/2020/january/interpretability-and-the-promise-of-healthcare-ai)
     > Andrew Fairless, Ph.D., Principal Data Scientist, January 23, 2020 
 
